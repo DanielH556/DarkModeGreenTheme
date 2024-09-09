@@ -1,0 +1,21 @@
+{
+  "name": "sayuhatto",
+  "displayName": "SayuHatto",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sayu Hatto 1.0",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sayu Hatto 1.0-color-theme.json"
+      }
+    ]
+  }
+}
